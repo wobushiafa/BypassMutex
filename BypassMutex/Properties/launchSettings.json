@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BypassMutex": {
+      "commandName": "Project",
+      "commandLineArgs": "WeChat"
+    }
+  }
+}
