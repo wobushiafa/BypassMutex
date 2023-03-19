@@ -7,4 +7,3 @@
 tip:
 Marshal.PtrToStringUni貌似anycpu不可用,需指定x86
 微信的进程互斥名"\Sessions\1\BaseNamedObjects\_WeChat_App_Instance_Identity_Mutex_Name"其他程序需修改对应名称
-查看互斥名工具xuetr
